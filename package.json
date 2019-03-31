@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Gagan6730.github.io/weather-app",
+  "homepage": "https://gagan6730.github.io/Weather-app",
   "name": "hello_world",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +16,8 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    // "predeploy": "npm run build",
+    // "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
