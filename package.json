@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "chart.js": "^2.8.0",
+    "create-react-app": "^2.1.8",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-chartjs-2": "^2.7.6",
@@ -16,8 +17,8 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
-    // "predeploy": "npm run build",
-    // "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
