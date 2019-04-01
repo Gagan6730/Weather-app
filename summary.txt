@@ -1,0 +1,6 @@
+Deployment link: https://gagan6730.github.io/Weather-app/
+Github: https://github.com/Gagan6730/Weather-app.git
+Command Line: Install latest node from nodejs.org . Go to the app directory 
+    > npm install
+    > npm start
+    the app will be available on http://localhost:3000
