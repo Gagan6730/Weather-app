@@ -4,3 +4,5 @@ Command Line: Install latest node from nodejs.org . Go to the app directory
     > npm install
     > npm start
     the app will be available on http://localhost:3000
+
+Note: Google places api won't work on local host
