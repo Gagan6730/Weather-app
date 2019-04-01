@@ -161,7 +161,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App-header">
-        <h1>Weather App</h1>
+        <h1 className="weather">Weather App</h1>
                   <Places getWeather={this.getWeather}/>
                   {/* <City getWeather={this.getWeather} /> */}
                   

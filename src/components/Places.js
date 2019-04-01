@@ -2,9 +2,9 @@ import React, {Component} from "react"
 import GoogleMapLoader from "react-google-maps-loader"
 import GooglePlacesSuggest from "react-google-places-suggest"
 
-const API_KEY = "AIzaSyDj8I9Bd0ICbhG9CpdYGOcCuc1VEfqqL0Y" 
+const API_KEY = "AIzaSyDoQCJtOSj-V3nS-rDRERg_ItsforUV_D0" 
  
- class Places extends React.Component {
+ class Places extends Component {
     state = {
         search: "",
         value: "",
@@ -13,9 +13,10 @@ const API_KEY = "AIzaSyDj8I9Bd0ICbhG9CpdYGOcCuc1VEfqqL0Y"
 
           },
           style2:{
-                backgroundColor: '#282c34',
+                // backgroundColor: '#282c34',
                 textColor:'White',
                 fontSize:'20px',
+                // fontColor:'White'
                 
           },
           button_style:{
